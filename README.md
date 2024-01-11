@@ -2,7 +2,7 @@
 
 Pie & AI es una serie de reuniones de DeepLearning.AI organizadas de forma independiente por grupos comunitarios. Este evento es presentado por Andrés Wagner. ¡Un agradecimiento especial por su apoyo! Únete a nosotros para una reunión reveladora en la que profundizaremos en el mundo de las aplicaciones RAG (Recuperación-Generación Aumentada). Esta sesión está diseñada tanto para entusiastas como para profesionales que estén ansiosos por explorar la fascinante intersección de la recuperación de información y los modelos generativos de IA.
 
-![IMG_4809.jpeg](./fotos/IMG_4809.jpeg)
+![IMG_4809](fotos/IMG_4809.jpeg)
 
 ## Agenda del Evento
 En este evento, comenzaremos presentando los conceptos centrales de la técnica RAG. Aprenderemos sobre su arquitectura, cómo integrar mecanismos de recuperación con modelos de lenguaje de última generación y por qué se está convirtiendo en un punto de inflexión en el campo de la inteligencia artificial y el aprendizaje automático.
